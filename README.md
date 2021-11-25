@@ -9,3 +9,5 @@
 7. Reversed Strings - перевернуть строку
 8. String repeat - повторить строку
 9. Remove First and Last Character - удалить первый и последний элемент строки
+10. Remove String Spaces - убрать все пробелы
+11. Convert a String to a Number - конвертация из строки в числа
