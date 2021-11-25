@@ -11,3 +11,5 @@
 9. Remove First and Last Character - удалить первый и последний элемент строки
 10. Remove String Spaces - убрать все пробелы
 11. Convert a String to a Number - конвертация из строки в числа
+12. Convert number to reversed array of digits - конвертация число в массив строки и перевернуть массив
+
