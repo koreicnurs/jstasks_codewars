@@ -16,4 +16,7 @@
 14. Find the Remainder - вернуть остаток от деления
 15. Kata Example Twist - Добавьте в массив значение «codewars» websites/ Websites1000 раз.
 16. Basic Mathematical Operations - провести основные математичесвкие операции в функцие
-
+17. Convert a Boolean to a String - конвертация булевого значения в тип строки
+18. Reversed Words - перевернуть строку из несколько слов в обратном порядке
+19. Is n divisible by x and y? - узнать являются ли числа x и y, числами для деления числа n
+ 
